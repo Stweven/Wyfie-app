@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Billionaire Coach</string>
+    <string name="welcome">Welcome to your Billionaire Journey</string>
+    <string name="inputs">Inputs</string>
+    <string name="monthly_salary">Monthly take-home salary (%1$s)</string>
+    <string name="percent_save">% to save</string>
+    <string name="expected_return">Expected annual return (e.g., 0.12)</string>
+    <string name="years">Years (int)</string>
+    <string name="target_net">Target net worth</string>
+    <string name="save_button">Save inputs & checklist</string>
+    <string name="estimated_years">Estimated years to reach target at current saving rate: %1$d years</string>
+    <string name="required_monthly">Required monthly investment to hit %1$s in %2$d years: %3$s</string>
+    <string name="checklist_title">Checklist (tap to mark complete)</string>
+    <string name="enable_weekly">Enable weekly reminders</string>
+    <string name="export_csv">Export progress to CSV</string>
+    <string name="notes_defaults">Defaults localized to KES 30,000. Change top constants to adjust.</string>
+    <string name="strategies_title">Live Strategies (auto-updating)</string>
+    <string name="strategies_update_now">Update strategies now</string>
+    <string name="strategies_last_updated">Last updated: %1$s</string>
+    <string name="strategy_source_label">Strategy source (editable URL)</string>
+</resources>

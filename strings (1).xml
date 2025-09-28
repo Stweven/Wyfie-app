@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kocha wa Ubilionea</string>
+    <string name="welcome">Karibu kwenye Safari yako ya Ubilionea</string>
+    <string name="inputs">Vingizo</string>
+    <string name="monthly_salary">Mshahara wa kila mwezi baada ya kodi (%1$s)</string>
+    <string name="percent_save">% ya kuwekeza</string>
+    <string name="expected_return">Marejesho ya kila mwaka (mfano, 0.12)</string>
+    <string name="years">Miaka (nambari)</string>
+    <string name="target_net">Lengo la utajiri</string>
+    <string name="save_button">Hifadhi vingozi & orodha ya kazi</string>
+    <string name="estimated_years">Miaka yanakadiriwa kufikia lengo kwa kiwango cha sasa: %1$d miaka</string>
+    <string name="required_monthly">Kiasi kinachohitajika kila mwezi kufikia %1$s ndani ya miaka %2$d: %3$s</string>
+    <string name="checklist_title">Orodha ya kazi (gusa kuweka imekamilika)</string>
+    <string name="enable_weekly">Washa vikumbusho vya wiki</string>
+    <string name="export_csv">Hamisha maendeleo kwa CSV</string>
+    <string name="notes_defaults">Misingi imewekwa KES 30,000. Badilisha constants juu ya faili kurekebisha.</string>
+    <string name="strategies_title">Mikakati hai (inasaidiwa kiotomatiki)</string>
+    <string name="strategies_update_now">Sasisha mikakati sasa</string>
+    <string name="strategies_last_updated">Imesasishwa mwisho: %1$s</string>
+    <string name="strategy_source_label">Chanzo cha mikakati (URL inayoweza kuhaririwa)</string>
+</resources>
